@@ -8,6 +8,14 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+   <img src="https://komarev.com/ghpvc/?username=shubha987&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 👋 Hi, I’m Shubha Ruidas
 <p>👀 I’m a sophomore student of IIT KHARAGPUR'26 and a great enthusiast in technology.</p>
