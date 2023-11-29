@@ -4,6 +4,7 @@
 
 👋 Hi, I’m Shubha Ruidas
 <p>👀 I’m a sophomore student of IIT KHARAGPUR'26 and a great enthusiast in technology.</p>
+
 ## Domain of interest:
  🌱 I’m highly interested 
  <ul>
@@ -12,9 +13,11 @@
         <li> Machine Learning/ Deep learning </li>
         <li> Case study and data analytics </li>
     </ul>
+    
 ## How to reach me
      <li> LINKEDIN : <a href="linkedin.com/in/shubha-ruidas-304978253"> Shubha Ruidas </a></li>
      <li> Gmail : shubharuidas123@gmail.com</li>
+     
 ## Github stats :
  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubha987 &theme=cobalt)]
 
