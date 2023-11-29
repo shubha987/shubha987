@@ -56,6 +56,7 @@ I have partcipated in Hacktoberfest 2023, an annual event that promotes open sou
 [![An image of @shubha987's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubha987)](https://holopin.io/@shubha987)
 
 ## Girlscript-23 (GSSoC) Achievement :
+I have partcipated in GirlScript Summer of Code 2023, an annual event that promotes open source contributions.
 ![image](https://github.com/shubha987/shubha987/assets/116547779/7e11d60e-8f34-4d3d-bac5-060453559004)
 
 <!---
