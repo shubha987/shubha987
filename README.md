@@ -15,11 +15,12 @@
     </ul>
     
 ## How to reach me
-     <li> LINKEDIN : <a href="linkedin.com/in/shubha-ruidas-304978253"> Shubha Ruidas </a></li>
-     <li> Gmail : shubharuidas123@gmail.com</li>
+- LINKEDIN : <a href="linkedin.com/in/shubha-ruidas-304978253"> Shubha Ruidas </a>
+- Gmail : shubharuidas123@gmail.com
      
 ## Github stats :
- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubha987 &theme=cobalt)]
+
+ [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubha987&theme=cobalt)]
 
 ## Hacktoberfest-23 Achievement
 I have partcipated in Hacktoberfest 2023, an annual event that promotes open source contributions. During this event, I had the opportunity to contribute to various open source projects and earn these badges:
