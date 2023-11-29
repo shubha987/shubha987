@@ -17,8 +17,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### :woman_technologist: About Me :
 👋 Hi, I’m Shubha Ruidas
 <p>👀 I’m a sophomore student of IIT KHARAGPUR'26 and a great enthusiast in technology.</p>
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 ## Domain of interest:
  🌱 I’m highly interested 
