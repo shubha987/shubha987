@@ -1,6 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 👋 Hi, I’m Shubha Ruidas
 <p>👀 I’m a sophomore student of IIT KHARAGPUR'26 and a great enthusiast in technology.</p>
-
 ## Domain of interest:
  🌱 I’m highly interested 
  <ul>
