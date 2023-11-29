@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @shubha987
-- 👀 I’m interested in web development,bug fixing,app development...
-- 🌱 I’m currently learning c/c++,python....
-- 💞️ I’m looking to collaborate on the topic mentioned....
-- 📫 How to reach me linkedin.com/in/shubha-ruidas-304978253
+👋 Hi, I’m Shubha Ruidas
+<p>👀 I’m a sophomore student of IIT KHARAGPUR'26 and a great enthusiast in technology.</p>
 
-## Github Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubha987&theme=cobalt)
+## Domain of interest:
+ 🌱 I’m highly interested 
+ <ul>
+        <li> Full stack Web development</li>
+        <li> Data science using python </li>
+        <li> Machine Learning/ Deep learning </li>
+        <li> Case study and data analytics </li>
+    </ul>
+## How to reach me
+     <li> LINKEDIN : <a href="linkedin.com/in/shubha-ruidas-304978253"> Shubha Ruidas </a></li>
+     <li> Gmail : shubharuidas123@gmail.com</li>
+## Github stats :
+ [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubha987 &theme=cobalt)]
 
 ## Hacktoberfest-23 Achievement
 I have partcipated in Hacktoberfest 2023, an annual event that promotes open source contributions. During this event, I had the opportunity to contribute to various open source projects and earn these badges:
