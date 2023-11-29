@@ -33,9 +33,13 @@
 - LINKEDIN : <a href="linkedin.com/in/shubha-ruidas-304978253"> Shubha Ruidas </a>
 - Gmail : shubharuidas123@gmail.com
      
-## Github stats :
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubha987&theme=dark&background=000000)](https://git.io/streak-stats)
 
  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubha987&theme=cobalt)]
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubha987&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hacktoberfest-23 Achievement
 I have partcipated in Hacktoberfest 2023, an annual event that promotes open source contributions. During this event, I had the opportunity to contribute to various open source projects and earn these badges:
