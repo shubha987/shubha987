@@ -20,7 +20,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### 👩‍💻 About Me :
 👋 Hi, I’m Shubha Ruidas
 <p>👀 I’m a sophomore student of IIT KHARAGPUR'26 and a great enthusiast in technology.<br>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</p>
@@ -39,12 +39,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
   ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 [![My Skills](https://skills.thijs.gg/icons?i=c,html,css,js,git,github,react,python,django,nodejs,figma)](https://skills.thijs.gg)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubha987&theme=dark&background=000000)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubha987&theme=cobalt)]
