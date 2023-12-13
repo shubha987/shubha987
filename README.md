@@ -47,9 +47,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 My Stats :
 
 [![shubha987's GitHub | Stats](https://stats.quine.sh/shubha987/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shubha987)
+
+[![shubha987's GitHub | Topics Over Time](https://stats.quine.sh/shubha987/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shubha987)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubha987&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubha987&theme=cobalt)]
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubha987&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![shubha987's GitHub | Languages Over Time](https://stats.quine.sh/shubha987/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shubha987)
 
 ## Hacktoberfest-23 Achievement
 I have partcipated in Hacktoberfest 2023, an annual event that promotes open source contributions. During this event, I had the opportunity to contribute to various open source projects and earn these badges:
