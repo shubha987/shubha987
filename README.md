@@ -25,6 +25,8 @@
 <p>👀 I’m a sophomore student of IIT KHARAGPUR'26 and a great enthusiast in technology.<br>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shubha987)](https://github.com/shubha987/github-profile-trophy)
+
 ## Domain of interest:
  🌱 I’m highly interested 
  <ul>
