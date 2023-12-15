@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </ul>
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/shubha-ruidas-304978253)
-- Gmail : shubharuidas123@gmail.com
+- 📧 gmail : shubharuidas123@gmail.com
 
   ---
 
