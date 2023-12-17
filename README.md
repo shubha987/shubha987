@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![trophy](https://github-profile-trophy.vercel.app/?username=shubha987)](https://github.com/shubha987/github-profile-trophy)
 
 ## Domain of interest:
- 🌱 I’m highly interested 
+ 🌱 I’m highly interested in : 
  <ul>
         <li> Full stack Web development</li>
         <li> Data science using python </li>
