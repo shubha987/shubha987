@@ -52,7 +52,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 My Stats :
 
 [![shubha987's GitHub | Stats](https://stats.quine.sh/shubha987/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shubha987)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shubha987)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shubha987&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubha987&theme=cobalt)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubha987&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![shubha987's GitHub | Topics Over Time](https://stats.quine.sh/shubha987/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shubha987)
