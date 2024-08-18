@@ -46,7 +46,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🛠️ Languages and Tools :
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,html,css,js,git,github,react,python,django,nodejs,figma)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,git,github,react,python,django,nodejs,figma)](https://skills.thijs.gg)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🔥 My Stats :
